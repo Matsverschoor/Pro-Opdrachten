@@ -1,0 +1,22 @@
+Functions
+
+// is een function die niet iets terug geeft
+void Spawn(int hoeveelheid)
+{
+ 
+}
+
+Spawn(3); 
+
+
+//geeft terug
+int GeefinventoryAantal();
+{
+ return 1
+}
+
+// dit is hoe je een parameter oproept 
+void spawn (getal, nogeen) 
+{
+
+}

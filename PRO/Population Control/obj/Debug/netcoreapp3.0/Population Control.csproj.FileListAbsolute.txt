@@ -1,0 +1,11 @@
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.exe
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.deps.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.runtimeconfig.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.runtimeconfig.dev.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\bin\Debug\netcoreapp3.0\Population Control.pdb
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\obj\Debug\netcoreapp3.0\Population Control.csprojAssemblyReference.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\obj\Debug\netcoreapp3.0\Population Control.AssemblyInfoInputs.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\obj\Debug\netcoreapp3.0\Population Control.AssemblyInfo.cs
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\obj\Debug\netcoreapp3.0\Population Control.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Population Control\obj\Debug\netcoreapp3.0\Population Control.pdb

@@ -1,0 +1,11 @@
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.exe
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.deps.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.runtimeconfig.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.runtimeconfig.dev.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\bin\Debug\netcoreapp3.0\Theorie classes.pdb
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\obj\Debug\netcoreapp3.0\Theorie classes.csprojAssemblyReference.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\obj\Debug\netcoreapp3.0\Theorie classes.AssemblyInfoInputs.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\obj\Debug\netcoreapp3.0\Theorie classes.AssemblyInfo.cs
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\obj\Debug\netcoreapp3.0\Theorie classes.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Theorie classes\obj\Debug\netcoreapp3.0\Theorie classes.pdb

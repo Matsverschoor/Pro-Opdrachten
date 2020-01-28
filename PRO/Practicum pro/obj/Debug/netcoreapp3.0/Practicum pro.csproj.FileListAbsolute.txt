@@ -1,0 +1,11 @@
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.exe
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.deps.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.runtimeconfig.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.runtimeconfig.dev.json
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\bin\Debug\netcoreapp3.0\Practicum pro.pdb
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\obj\Debug\netcoreapp3.0\Practicum pro.csprojAssemblyReference.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\obj\Debug\netcoreapp3.0\Practicum pro.AssemblyInfoInputs.cache
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\obj\Debug\netcoreapp3.0\Practicum pro.AssemblyInfo.cs
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\obj\Debug\netcoreapp3.0\Practicum pro.dll
+C:\Users\matss\OneDrive\Bureaublad\School-MA\bewijzenmap\periode2\PRO\Practicum pro\obj\Debug\netcoreapp3.0\Practicum pro.pdb
